@@ -2,7 +2,7 @@
 # Rapport
 
 Jag har ändrat appnamnet i strings.xml till "Canvas 2.0" samt texten i activity_main.xml
-till "Canvas fast något bättre".
+till "Canvas fast något bättre". Kodsnutten visar ändringen till appnamnet i strings.xml
 
 ```
 <resources>
